@@ -1,6 +1,6 @@
 # Colorful Help
 
-![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
+![GitHub](https://img.shields.io/badge/License-MIT-red)
 ![Github InDev](https://img.shields.io/badge/project-in%20development-green)
 ![GitHub Version](https://img.shields.io/badge/version-0.0.1-blueviolet)
 
