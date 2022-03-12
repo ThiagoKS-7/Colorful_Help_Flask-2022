@@ -15,10 +15,12 @@ License: [MIT](LICENSE)
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Detectar textos
-- `Funcionalidade 2`: Reconehcer objetos
-- `Funcionalidade 2a`: Responder usuário por áudio
-- `Funcionalidade 3`: Tirar fotos com uma câmera (celular ou webcam)
+- `[RF1]`: Detectar textos
+- `[RF2]`: Reconehcer objetos
+- `[RF3]`: Responder usuário por áudio
+- `[RF4]`: Tirar fotos com uma câmera (celular ou webcam)
+
+- `[RNF1]`: Ser portátil
 
 
 ## Author
