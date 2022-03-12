@@ -6,7 +6,7 @@
 
 A Flask Machine Learning API running with OCR and object Detection AI's. 
 
-License: [MIT](License.txt)
+License: [MIT](LICENSE.txt)
 
 
 <h4 align="center"> 
