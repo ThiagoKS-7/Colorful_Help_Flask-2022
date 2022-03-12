@@ -13,6 +13,13 @@ License: [MIT](LICENSE)
     :construction:  Projeto em construção  :construction:
 </h4>
 
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Detectar textos
+- `Funcionalidade 2`: Reconehcer objetos
+- `Funcionalidade 2a`: Responder usuário por áudio
+- `Funcionalidade 3`: Tirar fotos com uma câmera (celular ou webcam)
+
 
 ## Author
 
