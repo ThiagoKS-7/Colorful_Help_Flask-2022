@@ -1,7 +1,7 @@
 # Colorful_Help_Project
 
 ![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
-![Github InDev](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
+![Github InDev](https://img.shields.io/badge/project-in%20development-green)
 ![GitHub Version](https://img.shields.io/badge/version-0.0.1-blueviolet)
 
 A Flask Machine Learning API running with OCR and object Detection AI's. 
