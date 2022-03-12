@@ -1,4 +1,4 @@
-# Colorful_Help_Project
+# Colorful Help
 
 ![GitHub](https://img.shields.io/github/license/dropbox/dropbox-sdk-java)
 ![Github InDev](https://img.shields.io/badge/project-in%20development-green)
@@ -10,7 +10,7 @@ License: [MIT](LICENSE)
 
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    :construction:  Project under construction :construction:
 </h4>
 
 ## :hammer: Funcionalidades do projeto
