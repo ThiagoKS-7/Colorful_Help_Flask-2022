@@ -19,8 +19,3 @@ License: [MIT](LICENSE)
 | [<img src="https://avatars.githubusercontent.com/u/83460816?v=4" width=115><br><sub>Thiago Kasper de Souza</sub>](https://github.com/ThiagoKS-7) |
 | :---: |
 ![GitHub Org's stars](https://img.shields.io/github/stars/ThiagoKS-7?style=social)
-
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/facebook/docusaurus/graphs/contributors"><img src="https://opencollective.com/Docusaurus/contributors.svg?width=890&button=false" /></a>
