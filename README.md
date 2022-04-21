@@ -13,14 +13,10 @@ License: [MIT](LICENSE)
     :construction:  Project under construction :construction:
 </h4>
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Funcionalidades da API
 
 - `[RF1] Detectar textos;` 
-- `[RF2] Reconehcer objetos;`
-- `[RF3] Responder usuário por áudio;` 
-- `[RF4] Tirar fotos com uma câmera (celular ou webcam);`
-
-- `[RNF1]  Ser portátil;`
+- `[RF2] Reconhecer objetos;`
 
 
 ## Author
