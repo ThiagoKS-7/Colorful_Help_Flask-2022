@@ -1,4 +1,4 @@
-# Colorful Help 2
+# Colorful Help
 
 ![GitHub](https://img.shields.io/badge/License-MIT-red)
 ![Github InDev](https://img.shields.io/badge/project-in%20development-green)
